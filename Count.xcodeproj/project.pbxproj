@@ -14,6 +14,7 @@
 		9C2D1AD8204BDC7000B06964 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C2D1AD6204BDC7000B06964 /* LaunchScreen.storyboard */; };
 		9C2D1AE3204BDC7000B06964 /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2D1AE2204BDC7000B06964 /* CountTests.swift */; };
 		9C2D1AEE204BDC7000B06964 /* CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2D1AED204BDC7000B06964 /* CountUITests.swift */; };
+		9C398B21208232A300BCDD46 /* gatag-00007091.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C398B20208232A300BCDD46 /* gatag-00007091.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9C2D1AE9204BDC7000B06964 /* CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C2D1AED204BDC7000B06964 /* CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUITests.swift; sourceTree = "<group>"; };
 		9C2D1AEF204BDC7000B06964 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C398B20208232A300BCDD46 /* gatag-00007091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "gatag-00007091.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		9C2D1ACC204BDC7000B06964 /* Count */ = {
 			isa = PBXGroup;
 			children = (
+				9C398B20208232A300BCDD46 /* gatag-00007091.jpg */,
 				9C2D1ACD204BDC7000B06964 /* AppDelegate.swift */,
 				9C2D1ACF204BDC7000B06964 /* ViewController.swift */,
 				9C2D1AD1204BDC7000B06964 /* Main.storyboard */,
@@ -235,6 +238,7 @@
 				9C2D1AD8204BDC7000B06964 /* LaunchScreen.storyboard in Resources */,
 				9C2D1AD5204BDC7000B06964 /* Assets.xcassets in Resources */,
 				9C2D1AD3204BDC7000B06964 /* Main.storyboard in Resources */,
+				9C398B21208232A300BCDD46 /* gatag-00007091.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
